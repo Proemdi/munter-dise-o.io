@@ -1,5 +1,6 @@
-# munter-dise-o.io
-pagina web
+# Munter-diseño.io
+
+Pagina web para cliente 
 
 
 <img src='muestra.png' />
